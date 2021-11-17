@@ -1,5 +1,5 @@
 # Pythorch_learning
-Experimenting with pythorch and Optuna
+Experimenting with pythorch and related libraries
 
-MINST_Autoencoder_pythorch : experimenting Autoencoder on MNIST dataset
-MINST_pythorch_optuna : experimenting optuna for hyperparameter tuning with pythorch
+<b>MINST_Autoencoder_pythorch</b> : experimenting Autoencoder on MNIST dataset </br>
+<b>MINST_pythorch_optuna</b> : experimenting optuna for hyperparameter tuning with pythorch
